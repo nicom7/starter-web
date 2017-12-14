@@ -1,0 +1,6 @@
+[submodule "starter-submod-1"]
+	path = starter-submod-1
+	url = https://github.com/nicom7/starter-submod-1.git
+[submodule "starter-submod-2"]
+	path = starter-submod-2
+	url = https://github.com/nicom7/starter-submod-2.git
