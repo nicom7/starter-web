@@ -1,0 +1,2 @@
+folder_to_include/*
+!file_to_exclude.txt
